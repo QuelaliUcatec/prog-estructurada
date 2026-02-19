@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Program Files\\Git\\ucatec\\prog-estructurada\\Practica4\\Practica4.csproj": {}
+    "C:\\Program Files\\Git\\ucatec\\prog-estructurada\\practica4\\Practica4.csproj": {}
   },
   "projects": {
-    "C:\\Program Files\\Git\\ucatec\\prog-estructurada\\Practica4\\Practica4.csproj": {
+    "C:\\Program Files\\Git\\ucatec\\prog-estructurada\\practica4\\Practica4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Program Files\\Git\\ucatec\\prog-estructurada\\Practica4\\Practica4.csproj",
+        "projectUniqueName": "C:\\Program Files\\Git\\ucatec\\prog-estructurada\\practica4\\Practica4.csproj",
         "projectName": "Practica4",
-        "projectPath": "C:\\Program Files\\Git\\ucatec\\prog-estructurada\\Practica4\\Practica4.csproj",
+        "projectPath": "C:\\Program Files\\Git\\ucatec\\prog-estructurada\\practica4\\Practica4.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Program Files\\Git\\ucatec\\prog-estructurada\\Practica4\\obj\\",
+        "outputPath": "C:\\Program Files\\Git\\ucatec\\prog-estructurada\\practica4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
