@@ -1,0 +1,15 @@
+C:\Program Files\Git\ucatec\prog-estructurada\practica4\bin\Debug\net10.0\Practica4.exe
+C:\Program Files\Git\ucatec\prog-estructurada\practica4\bin\Debug\net10.0\Practica4.deps.json
+C:\Program Files\Git\ucatec\prog-estructurada\practica4\bin\Debug\net10.0\Practica4.runtimeconfig.json
+C:\Program Files\Git\ucatec\prog-estructurada\practica4\bin\Debug\net10.0\Practica4.dll
+C:\Program Files\Git\ucatec\prog-estructurada\practica4\bin\Debug\net10.0\Practica4.pdb
+C:\Program Files\Git\ucatec\prog-estructurada\practica4\obj\Debug\net10.0\Practica4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Git\ucatec\prog-estructurada\practica4\obj\Debug\net10.0\Practica4.AssemblyInfoInputs.cache
+C:\Program Files\Git\ucatec\prog-estructurada\practica4\obj\Debug\net10.0\Practica4.AssemblyInfo.cs
+C:\Program Files\Git\ucatec\prog-estructurada\practica4\obj\Debug\net10.0\Practica4.csproj.CoreCompileInputs.cache
+C:\Program Files\Git\ucatec\prog-estructurada\practica4\obj\Debug\net10.0\Practica4.sourcelink.json
+C:\Program Files\Git\ucatec\prog-estructurada\practica4\obj\Debug\net10.0\Practica4.dll
+C:\Program Files\Git\ucatec\prog-estructurada\practica4\obj\Debug\net10.0\refint\Practica4.dll
+C:\Program Files\Git\ucatec\prog-estructurada\practica4\obj\Debug\net10.0\Practica4.pdb
+C:\Program Files\Git\ucatec\prog-estructurada\practica4\obj\Debug\net10.0\Practica4.genruntimeconfig.cache
+C:\Program Files\Git\ucatec\prog-estructurada\practica4\obj\Debug\net10.0\ref\Practica4.dll
