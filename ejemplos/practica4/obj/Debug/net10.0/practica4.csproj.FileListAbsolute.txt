@@ -1,0 +1,15 @@
+C:\Universidad\Estructura de datos\prog-estructurada\ejemplos\practica4\bin\Debug\net10.0\practica4.exe
+C:\Universidad\Estructura de datos\prog-estructurada\ejemplos\practica4\bin\Debug\net10.0\practica4.deps.json
+C:\Universidad\Estructura de datos\prog-estructurada\ejemplos\practica4\bin\Debug\net10.0\practica4.runtimeconfig.json
+C:\Universidad\Estructura de datos\prog-estructurada\ejemplos\practica4\bin\Debug\net10.0\practica4.dll
+C:\Universidad\Estructura de datos\prog-estructurada\ejemplos\practica4\bin\Debug\net10.0\practica4.pdb
+C:\Universidad\Estructura de datos\prog-estructurada\ejemplos\practica4\obj\Debug\net10.0\practica4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Universidad\Estructura de datos\prog-estructurada\ejemplos\practica4\obj\Debug\net10.0\practica4.AssemblyInfoInputs.cache
+C:\Universidad\Estructura de datos\prog-estructurada\ejemplos\practica4\obj\Debug\net10.0\practica4.AssemblyInfo.cs
+C:\Universidad\Estructura de datos\prog-estructurada\ejemplos\practica4\obj\Debug\net10.0\practica4.csproj.CoreCompileInputs.cache
+C:\Universidad\Estructura de datos\prog-estructurada\ejemplos\practica4\obj\Debug\net10.0\practica4.sourcelink.json
+C:\Universidad\Estructura de datos\prog-estructurada\ejemplos\practica4\obj\Debug\net10.0\practica4.dll
+C:\Universidad\Estructura de datos\prog-estructurada\ejemplos\practica4\obj\Debug\net10.0\refint\practica4.dll
+C:\Universidad\Estructura de datos\prog-estructurada\ejemplos\practica4\obj\Debug\net10.0\practica4.pdb
+C:\Universidad\Estructura de datos\prog-estructurada\ejemplos\practica4\obj\Debug\net10.0\practica4.genruntimeconfig.cache
+C:\Universidad\Estructura de datos\prog-estructurada\ejemplos\practica4\obj\Debug\net10.0\ref\practica4.dll
