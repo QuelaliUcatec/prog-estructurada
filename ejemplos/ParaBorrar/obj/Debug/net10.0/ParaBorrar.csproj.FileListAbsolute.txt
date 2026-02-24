@@ -1,0 +1,15 @@
+C:\Users\GASTON\ucatec\prog-estructurada\ejemplos\ParaBorrar\bin\Debug\net10.0\ParaBorrar.exe
+C:\Users\GASTON\ucatec\prog-estructurada\ejemplos\ParaBorrar\bin\Debug\net10.0\ParaBorrar.deps.json
+C:\Users\GASTON\ucatec\prog-estructurada\ejemplos\ParaBorrar\bin\Debug\net10.0\ParaBorrar.runtimeconfig.json
+C:\Users\GASTON\ucatec\prog-estructurada\ejemplos\ParaBorrar\bin\Debug\net10.0\ParaBorrar.dll
+C:\Users\GASTON\ucatec\prog-estructurada\ejemplos\ParaBorrar\bin\Debug\net10.0\ParaBorrar.pdb
+C:\Users\GASTON\ucatec\prog-estructurada\ejemplos\ParaBorrar\obj\Debug\net10.0\ParaBorrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GASTON\ucatec\prog-estructurada\ejemplos\ParaBorrar\obj\Debug\net10.0\ParaBorrar.AssemblyInfoInputs.cache
+C:\Users\GASTON\ucatec\prog-estructurada\ejemplos\ParaBorrar\obj\Debug\net10.0\ParaBorrar.AssemblyInfo.cs
+C:\Users\GASTON\ucatec\prog-estructurada\ejemplos\ParaBorrar\obj\Debug\net10.0\ParaBorrar.csproj.CoreCompileInputs.cache
+C:\Users\GASTON\ucatec\prog-estructurada\ejemplos\ParaBorrar\obj\Debug\net10.0\ParaBorrar.sourcelink.json
+C:\Users\GASTON\ucatec\prog-estructurada\ejemplos\ParaBorrar\obj\Debug\net10.0\ParaBorrar.dll
+C:\Users\GASTON\ucatec\prog-estructurada\ejemplos\ParaBorrar\obj\Debug\net10.0\refint\ParaBorrar.dll
+C:\Users\GASTON\ucatec\prog-estructurada\ejemplos\ParaBorrar\obj\Debug\net10.0\ParaBorrar.pdb
+C:\Users\GASTON\ucatec\prog-estructurada\ejemplos\ParaBorrar\obj\Debug\net10.0\ParaBorrar.genruntimeconfig.cache
+C:\Users\GASTON\ucatec\prog-estructurada\ejemplos\ParaBorrar\obj\Debug\net10.0\ref\ParaBorrar.dll
