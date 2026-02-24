@@ -1,0 +1,5 @@
+C:\Program Files\Git\ucatec\prog-estructurada\obj\Debug\net10.0\prog-estructurada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Git\ucatec\prog-estructurada\obj\Debug\net10.0\prog-estructurada.AssemblyInfoInputs.cache
+C:\Program Files\Git\ucatec\prog-estructurada\obj\Debug\net10.0\prog-estructurada.AssemblyInfo.cs
+C:\Program Files\Git\ucatec\prog-estructurada\obj\Debug\net10.0\prog-estructurada.csproj.CoreCompileInputs.cache
+C:\Program Files\Git\ucatec\prog-estructurada\obj\Debug\net10.0\prog-estructurada.sourcelink.json

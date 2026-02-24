@@ -1,0 +1,15 @@
+C:\Program Files\Git\ucatec\prog-estructurada\20ejercicios\bin\Debug\net10.0\20ejercicios.exe
+C:\Program Files\Git\ucatec\prog-estructurada\20ejercicios\bin\Debug\net10.0\20ejercicios.deps.json
+C:\Program Files\Git\ucatec\prog-estructurada\20ejercicios\bin\Debug\net10.0\20ejercicios.runtimeconfig.json
+C:\Program Files\Git\ucatec\prog-estructurada\20ejercicios\bin\Debug\net10.0\20ejercicios.dll
+C:\Program Files\Git\ucatec\prog-estructurada\20ejercicios\bin\Debug\net10.0\20ejercicios.pdb
+C:\Program Files\Git\ucatec\prog-estructurada\20ejercicios\obj\Debug\net10.0\20ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Git\ucatec\prog-estructurada\20ejercicios\obj\Debug\net10.0\20ejercicios.AssemblyInfoInputs.cache
+C:\Program Files\Git\ucatec\prog-estructurada\20ejercicios\obj\Debug\net10.0\20ejercicios.AssemblyInfo.cs
+C:\Program Files\Git\ucatec\prog-estructurada\20ejercicios\obj\Debug\net10.0\20ejercicios.csproj.CoreCompileInputs.cache
+C:\Program Files\Git\ucatec\prog-estructurada\20ejercicios\obj\Debug\net10.0\20ejercicios.sourcelink.json
+C:\Program Files\Git\ucatec\prog-estructurada\20ejercicios\obj\Debug\net10.0\20ejercicios.dll
+C:\Program Files\Git\ucatec\prog-estructurada\20ejercicios\obj\Debug\net10.0\refint\20ejercicios.dll
+C:\Program Files\Git\ucatec\prog-estructurada\20ejercicios\obj\Debug\net10.0\20ejercicios.pdb
+C:\Program Files\Git\ucatec\prog-estructurada\20ejercicios\obj\Debug\net10.0\20ejercicios.genruntimeconfig.cache
+C:\Program Files\Git\ucatec\prog-estructurada\20ejercicios\obj\Debug\net10.0\ref\20ejercicios.dll
