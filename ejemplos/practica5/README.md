@@ -1,0 +1,42 @@
+# 📚 Práctica de Programación: Bucles en Python (`for` / `while`)
+
+Esta guía de ejercicios está diseñada para desarrollar la lógica de programación mediante el uso de estructuras repetitivas, contadores y acumuladores.
+
+---
+
+## 🟢 Nivel Básico: Estructuras Simples
+1. **Conteo ascendente:** Crear un programa que imprima los números del 1 al 10 utilizando un bucle `for`.
+2. **Cuenta regresiva:** Crear un programa que imprima los números del 10 al 1 utilizando un bucle `while`.
+3. **Suma de naturales:** Calcular la suma de los primeros 10 números naturales (del 1 al 10) y mostrar el resultado final.
+4. **Tabla de multiplicar:** Solicitar un número al usuario y mostrar su tabla de multiplicar del 1 al 10.
+5. **Números pares:** Imprimir todos los números pares que se encuentran entre el 1 y el 50.
+6. **Múltiplos de 3:** Mostrar todos los números del 1 al 30 que sean divisibles por 3.
+
+---
+
+## 🟡 Nivel Intermedio: Acumuladores y Cadenas
+7. **Suma de pares acumulada:** Calcular y mostrar la suma de todos los números pares entre 1 y 100.
+8. **Factorial de un número:** Leer un número entero positivo y calcular su factorial ($n!$).
+9. **Contador de vocales:** Pedir al usuario que ingrese una palabra y contar cuántas vocales tiene (a, e, i, o, u).
+10. **Promedio de notas:** Solicitar al usuario 5 notas, sumarlas y mostrar el promedio final.
+11. **Invertir una palabra:** Pedir una cadena de texto y mostrar sus caracteres uno por uno en orden inverso.
+12. **Buscador en lista:** Crear una lista con 10 números predefinidos. Pedir al usuario un valor y decirle si se encuentra en la lista y en qué índice.
+
+---
+
+## 🔴 Nivel Avanzado: Lógica y Validación
+13. **Validación de contraseña:** Pedir una contraseña al usuario. El programa no debe terminar hasta que el usuario ingrese la clave correcta (ejemplo: "python123").
+14. **Serie de Fibonacci:** Generar y mostrar los primeros 10 números de la sucesión de Fibonacci ($0, 1, 1, 2, 3, 5, 8, \dots$).
+15. **Verificador de Primos:** Leer un número entero e indicar mediante un bucle si es un número primo o no.
+16. **Dibujo de patrones (Triángulo):** Pedir un número $N$ y dibujar un triángulo de asteriscos `*` con una altura de $N$ líneas.
+17. **Cajero automático:** Crear un menú que se repita hasta que el usuario elija la opción "Salir". Opciones: 1. Ver saldo, 2. Retirar, 3. Salir.
+18. **Adivina el número:** El programa genera un número aleatorio entre 1 y 20. El usuario debe intentar adivinarlo; el programa dará pistas ("más alto" o "más bajo") hasta que acierte.
+19. **Contador de palabras:** Pedir una frase completa y contar cuántas palabras contiene (asumiendo que están separadas por espacios).
+20. **Sumatoria con límite:** Pedir números al usuario y sumarlos uno a uno. El bucle debe detenerse en el momento en que la suma total sea mayor a 100.
+
+---
+
+### 💡 Notas para el estudiante
+* **`for`**: Se utiliza cuando conocemos de antemano el número de iteraciones.
+* **`while`**: Se utiliza cuando la repetición depende de una condición lógica.
+* **Identación**: En Python es obligatorio dejar 4 espacios (o un Tab) dentro de cada bucle.

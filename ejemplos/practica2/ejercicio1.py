@@ -1,7 +1,9 @@
 # 1. Calculadora básica con operaciones múltiples
-num1 = 4
-num2 = 5
+def calculadora():
+    num1 = 4
+    num2 = 5
+    resultado = num1 + num2
+    print(f"La suma de {num1} + {num2} es: {resultado}")
 
-resultado = num1 + num2
-
-print(f"La suma del numero1 {num1} y el numero2 {num2} tiene como resultado el valor de {resultado}")
+if __name__ == "__main__":
+    calculadora()
